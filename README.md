@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a master student in Data management<br>👯 I am trying to build a career in web development <br>🤝 I would love to take part in creating a team project<br>🌱 I’m currently learning javascript for FRONT-END and java for BACK-END<br>💬 Ask me about creating layouts and BEM mythology <br>⚡ Feel free to text me if you want to practice your English knowledge in IT
+🔭 I am a master student in Data management<br>👯 I am going to start a career in web development <br>🤝 I would love to take part in creating a team project<br>🌱 I’m currently learning javascript for FRONT-END and java for BACK-END<br>💬 Ask me about creating layouts and BEM mythology <br>⚡ Feel free to text me if you want to practice your English knowledge in IT
 
 
 ## 🌐 Socials:
