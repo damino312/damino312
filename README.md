@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I am a master student in Data management<br>👯 I am going to start a career in web development <br>🤝 I would love to take part in creating a team project<br>🌱 I’m currently learning javascript for FRONT-END and java for BACK-END<br>💬 Ask me about creating layouts and BEM mythology <br>⚡ Feel free to text me if you want to practice your English knowledge in IT
 
-https://www.codewars.com/users/damino312/badges/large
+<img src="https://www.codewars.com/users/damino312/badges/large">
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/damino312#1971) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21585745) 
 
