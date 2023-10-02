@@ -53,37 +53,11 @@
 
 
 </td></tr></table>  
+<br/>
 
-<br/>  
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=damino312&theme=radical&hide_border=false)<br/>
 
-
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
