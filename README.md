@@ -3,22 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Kirill, a full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
+# 💫 About Me:
+🔭 I am a master student in Data management<br>👯 I am going to start a career in web development <br>🤝 I would love to take part in creating a team project<br>🌱 I’m currently learning javascript for FRONT-END and BACK-END <br>⚡ Feel free to text me if you want to practice your English knowledge in IT
+<br/>
 
 
 ## My Skill Set  
