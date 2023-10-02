@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/damino312#1971) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21585745) 
 <br/>
-# Codewars Link: https://www.codewars.com/users/damino312 <a href="https://www.codewars.com/users/damino312">damino312</a>
+# Codewars Link: <a href="https://www.codewars.com/users/damino312">damino312</a>
 <img src="https://www.codewars.com/users/damino312/badges/large">
 <br/>
 
