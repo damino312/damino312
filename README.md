@@ -1,18 +1,31 @@
-# 💫 About Me:
-🔭 I am a master student in Data management<br>👯 I am going to start a career in web development <br>🤝 I would love to take part in creating a team project<br>🌱 I’m currently learning javascript for FRONT-END and BACK-END <br>⚡ Feel free to text me if you want to practice your English knowledge in IT
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+### <div align="center">I'm Kirill, a full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
+  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/damino312#1971) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21585745) 
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+  
 
-# Codewars Link: https://www.codewars.com/users/damino312
-<img src="https://www.codewars.com/users/damino312/badges/large">
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
-<br/>  
+
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -44,15 +57,41 @@
 </div>
 
 </td><td valign="top" width="33%">
+
+
+
 </td></tr></table>  
 
 <br/>  
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=damino312&theme=radical&hide_border=false)<br/>
+## Connect with me  
+  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>  
 
 
+## Github Stats  
+  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
