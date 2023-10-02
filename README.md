@@ -10,7 +10,7 @@
 <img src="https://www.codewars.com/users/damino312/badges/large">
 <br/>
 
-## My Skill Set  
+# 🌐 My Skill Set  
 <table><tr><td valign="top" width="50%">
 
 
