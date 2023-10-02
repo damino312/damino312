@@ -2,9 +2,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
+
 # 💫 About Me:
-🔭 I am a master student in Data management<br>👯 I am going to start a career in web development <br>🤝 I would love to take part in creating a team project<br>🌱 I’m currently learning javascript for FRONT-END and BACK-END
-<br/>
+🔭 I am a master student in Data management<br>👯 I am going to start a career in web development <br>🤝 I would love to take part in creating a team project<br>🌱 I’m currently learning javascript for FRONT-END and BACK-END <br>⚡ Feel free to text me if you want to practice your English knowledge in IT
 
 # Codewars Link: <a href="https://www.codewars.com/users/damino312">damino312</a>
 <img src="https://www.codewars.com/users/damino312/badges/large">
