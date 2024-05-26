@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I am a Master's student in Data management<br>👯 I do fullstack development<br>🤝
+🔭 I am a Master's student in Data management<br>👯 I do fullstack development<br>
 # Codewars Link: <a href="https://www.codewars.com/users/damino312">damino312</a>
 <img src="https://www.codewars.com/users/damino312/badges/large">
 <br/>
