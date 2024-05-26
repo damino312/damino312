@@ -4,8 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I am a master student in Data management<br>👯 I am going to start a career in web development <br>🤝 I would love to take part in creating a team project<br>🌱 I’m currently learning javascript for FRONT-END and BACK-END <br>⚡ Feel free to text me if you want to practice your English knowledge in IT
-
+🔭 I am a Master's student in Data management<br>👯 I do fullstack development<br>🤝
 # Codewars Link: <a href="https://www.codewars.com/users/damino312">damino312</a>
 <img src="https://www.codewars.com/users/damino312/badges/large">
 <br/>
