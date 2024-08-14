@@ -5,15 +5,13 @@
 # 💫 About Me
 
 👯 I am a Fullstack Developer with a passion for creating dynamic and efficient applications.
-
 🎓 I hold a Bachelor's Degree in **Automated Information Processing and Management Systems** and a Master's Degree in **Data Management**.
-
 💡 I possess advanced skills in crafting complex SQL queries and optimizing them for performance.
 
 <br>
 
 # Codewars Profile
-[Check out my Codewars profile](https://www.codewars.com/users/damino312) <br>
+<a href='https://www.codewars.com/users/damino312'>Check out my Codewars profile</a>
 <img src="https://www.codewars.com/users/damino312/badges/large" alt="Codewars Badge">
 
 <br>
