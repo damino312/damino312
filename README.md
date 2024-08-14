@@ -5,11 +5,20 @@
 # 💫 About Me
 
 👯 I am a Fullstack Developer with a passion for creating dynamic and efficient applications.
+<br>
 🎓 I hold a Bachelor's Degree in **Automated Information Processing and Management Systems** and a Master's Degree in **Data Management**.
+<br>
+<img class="emoji" title=":feelsgood:" alt=":feelsgood:" src="https://github.githubassets.com/images/icons/emoji/feelsgood.png" height="20" width="20" align="absmiddle"> I am highly skilled in developing applications using **React.js** and **Next.js**, and I have a deep interest in expanding my expertise in **NestJS** and exploring **React Native**.
+<br>
+🏋️ Outside of coding, I enjoy hitting the gym, playing computer games, and hanging out with friends. These activities help me stay balanced and refreshed.
+<br>
+🌱 I am always eager to learn new technologies and enhance my skills, striving to keep up with the latest trends in the tech industry.
+<br>
 💡 I possess advanced skills in crafting complex SQL queries and optimizing them for performance.
-
 <br>
 
+
+<br>
 # Codewars Profile
 
 <img src="https://www.codewars.com/users/damino312/badges/large" alt="Codewars Badge">
