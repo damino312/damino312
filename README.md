@@ -11,7 +11,8 @@
 <br>
 
 # Codewars Profile
-<a href='https://www.codewars.com/users/damino312'>Check out my Codewars profile</a>
+<a style='text-decoration: none;' href='https://www.codewars.com/users/damino312' target="_blank">Check out my Codewars profile</a>
+<br>
 <img src="https://www.codewars.com/users/damino312/badges/large" alt="Codewars Badge">
 
 <br>
